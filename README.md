@@ -23,7 +23,6 @@ Then, open your browser and go to:
 
 >[http://localhost:5173](http://localhost:5173)
 >(default Vite port)
-
 >>If that port is already taken, Vite will automatically switch to another (e.g.: [http://localhost:3000](http://localhost:3000)).
 
 ### Link
