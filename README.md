@@ -16,8 +16,8 @@ Open [http://localhost:5173/](http://localhost:5173/) OR [http://localhost:3000]
 
 ### Link
 
-Reactjs: https://reactjs.org/docs/create-a-new-react-app.html
-Shortener Api: https://tinyurl.com/
-font family: https://fonts.google.com/specimen/Playfair+Display
-background animation: https://wweb.dev/resources/animated-css-background-generator/
-react-copy-to-clipboard: https://www.npmjs.com/package/react-copy-to-clipboard
+- [ReactJS Documentation](https://reactjs.org/docs/create-a-new-react-app.html)
+- [TinyURL API](https://tinyurl.com/)
+- [Playfair Display Font](https://fonts.google.com/specimen/Playfair+Display)
+- [Animated CSS Background Generator](https://wweb.dev/resources/animated-css-background-generator/)
+- [react-copy-to-clipboard (npm)](https://www.npmjs.com/package/react-copy-to-clipboard)
