@@ -2,17 +2,29 @@ This project was bootstrapped with [Vite](https://vitejs.dev/), a fast frontend 
 
 ![Project Preview](./src/url_shortener.png)
 
-In the project directory, you can run:
+In the project directory, to
 
-### `pnpm install`
+### Install Dependencies
 
-Instal All dependencies in this project
+Use [pnpm](https://pnpm.io/) to install all the required packages:
 
-### `pnpm run dev`
+```
+pnpm install
+```
+<br />
 
-Runs the app in the development mode.<br />
+### Run the app in development mode:
+```
+pnpm run dev
+```
+<br />
 
-Open [http://localhost:5173/](http://localhost:5173/) OR [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Then, open your browser and go to:
+
+>[http://localhost:5173](http://localhost:5173)
+>(default Vite port)
+
+>>If that port is already taken, Vite will automatically switch to another (e.g.: [http://localhost:3000](http://localhost:3000)).
 
 ### Link
 
