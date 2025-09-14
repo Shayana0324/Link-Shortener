@@ -1,12 +1,23 @@
-# React + Vite
+This project was bootstrapped with [Vite](https://vitejs.dev/), a fast frontend build tool optimized for modern web development.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Project Preview](./src/url_shortener.png)
 
-Currently, two official plugins are available:
+In the project directory, you can run:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### `pnpm install`
 
-## Expanding the ESLint configuration
+Instal All dependencies in this project
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### `pnpm run dev`
+
+Runs the app in the development mode.<br />
+
+Open [http://localhost:5173/](http://localhost:5173/) OR [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+### Link
+
+Reactjs: https://reactjs.org/docs/create-a-new-react-app.html
+Shortener Api: https://tinyurl.com/
+font family: https://fonts.google.com/specimen/Playfair+Display
+background animation: https://wweb.dev/resources/animated-css-background-generator/
+react-copy-to-clipboard: https://www.npmjs.com/package/react-copy-to-clipboard
